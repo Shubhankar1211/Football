@@ -15,7 +15,7 @@ A React.js-based game where players guess the names of football players based on
 - Tailwind CSS
 - API for fetching player data
 
-## 🎯 How to Play
+## 🎯 How to Play the game
 1. A football player is selected at random.
 2. Type your guess in the input field and press "Enter" or click "Submit."
 3. If your answer is correct, you receive confirmation and points.
